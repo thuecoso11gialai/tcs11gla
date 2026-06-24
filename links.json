@@ -1,0 +1,163 @@
+{
+  "columns": [
+    {
+      "title": "Ứng Dụng Thuế Tỉnh",
+      "links": [
+        {
+          "name": "Quản lý tiền thuế đất",
+          "url": "https://20.59.64.203:8888/",
+          "icon": "🏠",
+          "note": "nội bộ"
+        },
+        {
+          "name": "Thư viện điện tử Thuế BDI",
+          "url": "http://thuviendieuthuebdi.tct.vn/QTV/",
+          "icon": "📚",
+          "note": "nội bộ"
+        },
+        {
+          "name": "QCN - Quản lý hộ, CNKD",
+          "url": "http://qlgscnkd.bdi.tct.vn/QCN/",
+          "icon": "👥",
+          "note": "nội bộ"
+        },
+        {
+          "name": "QDT - Công tác dự toán",
+          "url": "http://qldtt.bdi.tct.vn/Qdt/",
+          "icon": "📊",
+          "note": "nội bộ"
+        },
+        {
+          "name": "QGS - Tổng hợp, giám sát HSKT",
+          "url": "http://qlgskkt.bdi.tct.vn/QGS/",
+          "icon": "🔍",
+          "note": "nội bộ"
+        },
+        {
+          "name": "QHD - Hỗ trợ QL hóa đơn điện tử",
+          "url": "http://qlhtnl.bdi.tct.vn/QHD/",
+          "icon": "🧾",
+          "note": "nội bộ"
+        },
+        {
+          "name": "QLKTNT - Quản lý khai thác nguồn thu",
+          "url": "http://qlktnt.bdi.tct.vn/Bditax/",
+          "icon": "💰",
+          "note": "nội bộ"
+        },
+        {
+          "name": "QPNN - QL các khoản thu đất đai",
+          "url": "http://qltpnn.bdi.tct.vn/qpnn/",
+          "icon": "🗺️",
+          "note": "nội bộ"
+        },
+        {
+          "name": "Công cụ theo dõi eTaxMobile",
+          "url": "http://qetax.bdi.tct.vn/QeTax/",
+          "icon": "📱",
+          "note": "nội bộ"
+        }
+      ]
+    },
+    {
+      "title": "Các Ứng Dụng Thuế",
+      "links": [
+        {
+          "name": "iOffice - Quản lý văn bản",
+          "url": "https://vpdt.vnptioffice.vn/qlvbdh/main",
+          "icon": "📄"
+        },
+        {
+          "name": "ETAX - Thuế điện tử (CBT)",
+          "url": "https://thuedientu.gdt.gov.vn",
+          "icon": "💳"
+        },
+        {
+          "name": "HĐDT - Hóa đơn điện tử Cán bộ thuế",
+          "url": "https://hddtcbt.gdt.gov.vn",
+          "icon": "🧾"
+        },
+        {
+          "name": "DataHub - Chia sẻ dữ liệu",
+          "url": "https://datahub.gdt.gov.vn/r/login",
+          "icon": "🗄️"
+        },
+        {
+          "name": "Hóa đơn điện tử Báo cáo",
+          "url": "https://hddtbaocao.gdt.gov.vn/login",
+          "icon": "📈"
+        },
+        {
+          "name": "DW - Kho CSDL HKD",
+          "url": "https://quantridw.gdt.gov.vn/authenticate/login",
+          "icon": "🏪"
+        },
+        {
+          "name": "Hệ thống Lưu trữ điện tử CQT",
+          "url": "https://luutruidientu.gdt.gov.vn/tcm_web/login",
+          "icon": "🗂️"
+        },
+        {
+          "name": "Quản lý Thiết bị CNTT",
+          "url": "https://qltb.gdt.gov.vn/user/login",
+          "icon": "💻"
+        },
+        {
+          "name": "QLCB - Quản lý cán bộ Bộ Tài chính",
+          "url": "https://qlcb.mof.gov.vn/auth/login",
+          "icon": "👔"
+        }
+      ]
+    },
+    {
+      "title": "Các Ứng Dụng Thuế",
+      "links": [
+        {
+          "name": "KDT - Ký điện tử",
+          "url": "https://kydientu.gdt.gov.vn/ProcessPortal/login.jsp",
+          "icon": "✍️"
+        },
+        {
+          "name": "QLTB-ND Quản lý trước bạ – nhà đất",
+          "url": "https://lptb.gdt.gov.vn",
+          "icon": "🏘️"
+        },
+        {
+          "name": "DVC Cán bộ thuế",
+          "url": "https://dichvucongcbt.gdt.gov.vn/cbt_web/login",
+          "icon": "🏛️"
+        },
+        {
+          "name": "E-mail ngành Thuế",
+          "url": "https://mail.gdt.gov.vn/",
+          "icon": "📧"
+        },
+        {
+          "name": "Hỗ trợ CA Service Desk",
+          "url": "https://hotro.gdt.gov.vn/CAisd/pdmweb.exe",
+          "icon": "🛠️"
+        },
+        {
+          "name": "DW - Kho CSDL của NNT",
+          "url": "https://cadlnnt.gdt.gov.vn",
+          "icon": "🗃️"
+        },
+        {
+          "name": "TEM điện tử",
+          "url": "https://quanlytemchi.gdt.gov.vn/login",
+          "icon": "🔖"
+        },
+        {
+          "name": "TPR - Phân tích rủi ro",
+          "url": "https://webtpr.gdt.gov.vn/",
+          "icon": "⚠️"
+        },
+        {
+          "name": "QLCB - Quản lý cán bộ Tổng cục Thuế",
+          "url": "https://qlcb.gdt.gov.vn/qlcb/dang-nhap",
+          "icon": "🎖️"
+        }
+      ]
+    }
+  ]
+}
